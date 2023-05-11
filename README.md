@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shamshadalam
 - 👀 I’m interested in games and programming.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 💞️ I’m looking forward to learn together with other programmers.
 - 📫 How to reach me 
 email: sashamshadalam977@gmail.com
 
